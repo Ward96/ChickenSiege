@@ -22,7 +22,7 @@ To install and use the project file, a version of the [unity editor](https://uni
 To install and use project file, download the github repository, unzip the zipped folder and import the "project" folder into your Unity. Note: The game was built on Unity version 2022.3.14f1 and is untested on other 
 versions.
 
-To install the game you can either download the github repository and find the build in the "build" folder, or if you wish to download only the game itself you can visit [this](https://drive.google.com/drive/folders/1qUK_o2G0qrgref8voAjVZdAlPwlm85w1?usp=sharing) google drive link and download the zipped folder.
+To install the game you can either download the github repository and find the build in the "finalbuild" folder, or if you wish to download only the game itself you can visit [this](https://drive.google.com/drive/folders/1qUK_o2G0qrgref8voAjVZdAlPwlm85w1?usp=sharing) google drive link and download the zipped folder.
 
 ## How to Play
 
