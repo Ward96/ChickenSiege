@@ -1,6 +1,6 @@
 # Chicken Siege
 
-Chicken Siege is a top down tower defense game made in unity, scripted with C#. The goal is to stop the chickens along the path to the castle using towers. If too many chickens reach the castle, you lose. If you clear all of the waves of chickens, you win! Manage your money wisely and place towers strategically to beat all six levels.
+Chicken Siege is a top down tower defense game made in unity, scripted with C#. The goal is to stop the chickens along the path to the castle using towers. If too many chickens reach the castle, you lose. If you clear all of the waves of chickens, you win! Manage your money wisely and place towers strategically to beat all six levels. If you would like to see images from the game, click [here](/ImageGallery.pdf).
 
 ### Table of Contents
 
@@ -30,7 +30,7 @@ Chicken Siege is controlled entirely with the mouse. To select a level click "Le
 
 ## Testing
 
-The testing of Chicken Siege consists of two testing method. The first tests are technical unit tests written in c# and conducted in Unitys own test runner. The second test method is a practical playtest of the game conducted by volunteers who were willing to fill out a survery to share their experience with the game. Visit [this](/test/unit_tests) folder to view the results of the Unit Tests. Visit [this](/test/player_tests) folder to view the results of the player tests.
+The testing of Chicken Siege consists of two testing method. The first tests are technical unit tests written in c# and conducted in Unitys own test runner. The second test method is a practical playtest of the game conducted by volunteers who were willing to fill out a survery to share their experience with the game. Visit [this](/test/unit_tests) folder to view the results of the Unit Tests. Visit [this](/test/player_tests/ChickenSiegePlaytestSurvey.pdf) folder to view the results of the player tests.
 
 ## Built With
 
